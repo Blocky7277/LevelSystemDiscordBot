@@ -13,7 +13,7 @@ A simple leveling bot written in [discord.js](https://discord.js.org)
 
 ## Getting Started
 
-Clone the repo
+Clone the repo <br>
 `git clone https://github.com/Blocky7277/LevelSystemDiscordBot.git`
 
 Install npm dependencies
