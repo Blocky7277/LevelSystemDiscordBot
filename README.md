@@ -9,6 +9,10 @@ A simple leveling bot written in [discord.js](https://discord.js.org)
 - Encourages engagement within a server
 - I have seen a few node modules implementing a leveling server but none of them worked how I wanted them to
 
+## Prerequisite
+
+A bot set up through Discord's dev portal and its token
+
 <!-- GETTING STARTED -->
 
 ## Getting Started
@@ -27,6 +31,10 @@ Create a .env file in the project directory and set it up as such
     TOKEN={DISCORD_BOT_TOKEN}
     MONGODB={MONGODB_API_KEY}
 ```
+
+Run the bot
+
+    node .
 
 ## Usage
 
