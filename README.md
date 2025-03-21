@@ -13,11 +13,13 @@ A simple leveling bot written in [discord.js](https://discord.js.org)
 
 ## Getting Started
 
-Clone the repo <br>
-`git clone https://github.com/Blocky7277/LevelSystemDiscordBot.git`
+Clone the repo
+
+    git clone https://github.com/Blocky7277/LevelSystemDiscordBot.git
 
 Install npm dependencies
-`npm i`
+
+    npm i
 
 Create a .env file in the project directory and set it up as such
 
